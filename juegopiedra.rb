@@ -1,4 +1,4 @@
-
+# falta terminar validacion 
 print "___________________""\n"
 print "*    Opciones     *""\n"
 print "*  1 Piedra       *""\n"
